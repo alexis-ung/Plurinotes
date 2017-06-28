@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>QtIcon.png</file>
+        <file>legoBart.jpg</file>
+        <file>legoLea.jpg</file>
+    </qresource>
+</RCC>

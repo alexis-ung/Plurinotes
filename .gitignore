@@ -1,0 +1,8 @@
+Debug/*
+*.pro.user
+*.o
+moc*
+qrc_res.cpp
+.qmake.stash
+Makefile
+PersoWid*
